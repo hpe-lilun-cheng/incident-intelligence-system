@@ -1,0 +1,14 @@
+## Core Requirements
+## These packages are required for basic functionality
+
+pandas>=1.3.0
+numpy>=1.20.0
+
+## Optional but recommended for better performance
+## Uncomment to install with core requirements
+
+# scipy>=1.7.0          # For advanced correlation analysis
+# scikit-learn>=1.0.0   # For Isolation Forest detector
+# duckdb>=0.8.0         # For fast raw log aggregation
+# PyYAML>=5.4.0         # For YAML output
+# tqdm>=4.62.0          # For progress bars

@@ -1,0 +1,15 @@
+## Optional Dependencies
+## Install these for enhanced functionality
+
+# Statistical and ML enhancements
+scipy>=1.7.0
+scikit-learn>=1.0.0
+
+# Performance improvements
+duckdb>=0.8.0
+
+# Output formats
+PyYAML>=5.4.0
+
+# User experience
+tqdm>=4.62.0
